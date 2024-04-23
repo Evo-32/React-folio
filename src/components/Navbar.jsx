@@ -51,7 +51,7 @@ const Navbar = () => {
         className="aside bg-pink-600 text-white flex items-center justify-between p-4 fixed top-0 left-0 w-full z-10"
       >
         <div className="logo text-2xl font-semibold">
-          <a href="home">
+          <a href="/">
             <span>E</span>vodie
           </a>
         </div>
