@@ -24,12 +24,7 @@ const Project = () => {
                 </a>
 
                 <p className="mt-2 line-clamp-3 text-sm/relaxed text-gray-500">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Recusandae dolores, possimus pariatur animi temporibus
-                  nesciunt praesentium dolore sed nulla ipsum eveniet corporis
-                  quidem, mollitia itaque minus soluta, voluptates neque
-                  explicabo tempora nisi culpa eius atque dignissimos. Molestias
-                  explicabo corporis voluptatem?
+                This rock, paper, scissors project is a fun way to practice decision-making and user input.
                 </p>
               </div>
             </div>
@@ -50,12 +45,7 @@ const Project = () => {
                 </a>
 
                 <p className="mt-2 line-clamp-3 text-sm/relaxed text-gray-500">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Recusandae dolores, possimus pariatur animi temporibus
-                  nesciunt praesentium dolore sed nulla ipsum eveniet corporis
-                  quidem, mollitia itaque minus soluta, voluptates neque
-                  explicabo tempora nisi culpa eius atque dignissimos. Molestias
-                  explicabo corporis voluptatem?
+                Leave chance to the code: Generate random numbers with this dice roller.
                 </p>
               </div>
             </div>
@@ -76,12 +66,7 @@ const Project = () => {
                 </a>
 
                 <p className="mt-2 line-clamp-3 text-sm/relaxed text-gray-500">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Recusandae dolores, possimus pariatur animi temporibus
-                  nesciunt praesentium dolore sed nulla ipsum eveniet corporis
-                  quidem, mollitia itaque minus soluta, voluptates neque
-                  explicabo tempora nisi culpa eius atque dignissimos. Molestias
-                  explicabo corporis voluptatem?
+                Unleash your creativity and generate unique emoji combinations with this emoji rangerator!
                 </p>
               </div>
             </div>
@@ -102,12 +87,7 @@ const Project = () => {
                 </a>
 
                 <p className="mt-2 line-clamp-3 text-sm/relaxed text-gray-500">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Recusandae dolores, possimus pariatur animi temporibus
-                  nesciunt praesentium dolore sed nulla ipsum eveniet corporis
-                  quidem, mollitia itaque minus soluta, voluptates neque
-                  explicabo tempora nisi culpa eius atque dignissimos. Molestias
-                  explicabo corporis voluptatem?
+                Discover a world of design inspiration with this captivating architecture website.
                 </p>
               </div>
             </div>
